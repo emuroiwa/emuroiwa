@@ -1,5 +1,5 @@
 <H1 align='center'>Hi 👋 I am Ernest!</H1>
-<p align='center'>I am a Fullstack developer who is passionate about building cool stuff with the best language avaliable. </p>
+<p align='center'>I am a Developer who is passionate about building cool stuff with the best language avaliable. </p>
 
 <p align='center'>
 <a href="https://twitter.com/mr_realist263">
