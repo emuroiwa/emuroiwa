@@ -13,7 +13,6 @@
 </a>&nbsp;&nbsp;
 </p>
 
-- 👨🏽‍💻 Currently working as an backend dev at Payfast South Africa.
 - 🤝 Open for collaborations in app developement with flutter.
 - 🔭 I’m currently working on personal projects here and there ...
 - 🌱 I’m currently learning Flutter
